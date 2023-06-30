@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Wep-com/static/css/main.e6c13ad2.css",
+    "main.js": "/Wep-com/static/js/main.2c6baee2.js",
+    "index.html": "/Wep-com/index.html",
+    "main.e6c13ad2.css.map": "/Wep-com/static/css/main.e6c13ad2.css.map",
+    "main.2c6baee2.js.map": "/Wep-com/static/js/main.2c6baee2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2c6baee2.js"
+  ]
+}
